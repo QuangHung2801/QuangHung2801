@@ -1,4 +1,4 @@
-Hi there 👋
+## Hi there 👋
 ✨ A fourth-year Information Technology student, with a goal to become a Software Engineer. ✨
 
 🌟 About Me
