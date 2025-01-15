@@ -10,8 +10,7 @@
       <li>💻 I love exploring new technologies and improving my coding skills.</li>
       <li>📧 How to reach me: nguyenquanghung28012003@gmail.com.</li>
     </ul></div>
-  <div style="flex: 1;"> <img src="https://github.com/user-attachments/assets/bd49b2c3-b0a2-481a-840b-f2d72cb8d24e" 
-         alt="Profile Image" style="width: 200px; border-radius: 10px;"></div>
+  <div style="flex: 1;"> ![1e97a24e-1adc-11e8-9758-2e995a9a3302](https://github.com/user-attachments/assets/17a364ef-9a5d-4cfd-a4eb-acd1a04f7b72)</div>
 </div>
 
 ## 🛠️ Languages and Tools
