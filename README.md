@@ -9,9 +9,13 @@
       <li>🤝 I’m looking to collaborate on GitHub projects.</li>
       <li>💻 I love exploring new technologies and improving my coding skills.</li>
       <li>📧 How to reach me: nguyenquanghung28012003@gmail.com.</li>
-    </ul></div>
-  <div style="flex: 1;"> ![1e97a24e-1adc-11e8-9758-2e995a9a3302](https://github.com/user-attachments/assets/17a364ef-9a5d-4cfd-a4eb-acd1a04f7b72)</div>
+    </ul>
+  </div>
+ <div style="flex: 1;">
+  <img src="https://github.com/user-attachments/assets/1cc58d4f-9dae-414d-b78b-ef0c97ecd881" alt="image" style="width: 100%; height: auto;">
 </div>
+</div>
+
 
 ## 🛠️ Languages and Tools
 <p align="center"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" title="Java" width="50" /> 
