@@ -12,10 +12,9 @@
     </ul>
   </div>
  <div style="flex: 1;">
-  <img src="https://github.com/user-attachments/assets/1cc58d4f-9dae-414d-b78b-ef0c97ecd881" alt="image" style="width: 100%; height: auto;">
+  <img src="https://github.com/user-attachments/assets/1cc58d4f-9dae-414d-b78b-ef0c97ecd881" alt="image" style="width: 50%; height: auto;">
 </div>
 </div>
-
 
 ## 🛠️ Languages and Tools
 <p align="center"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" title="Java" width="50" /> 
@@ -29,20 +28,3 @@
 ## ✨ My Goals
 - 🌟 To become a skilled software engineer.  
 - 🚀 Learn and master advanced frameworks like Spring and Django.  
-
-## Hi there 👋
-
-<!--
-**QuangHung2801/QuangHung2801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
